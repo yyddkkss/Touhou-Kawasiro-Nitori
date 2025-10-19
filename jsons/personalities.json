@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Kawasiro Nitori",
+        "production":8,
+        "food":6,
+        "gold":6,
+        "science":8,
+        "culture":7,
+        "happiness":7,
+        "faith":4,
+        "military":5,
+        "aggressive":4,
+        "declareWar":3,
+        "commerce":7,
+        "diplomacy":8,
+        "loyal":6,
+        "expansion":5,
+        "priorities":{
+            "Tradition":7,
+            "Liberty":9,
+            "Honor":8,
+            "Commerce":8,
+            "Patronage":8,
+            "Piety":1,
+            "Rationalism":9,
+            "Freedom":7,
+            "Autocracy":1,
+            "Order":9
+        }
+    }
+]

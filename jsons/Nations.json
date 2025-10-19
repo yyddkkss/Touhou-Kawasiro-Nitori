@@ -1,0 +1,41 @@
+[
+    {
+        "name":"Kawashima Technology Industrial Co., Ltd.",
+        "leaderName":"Kawashima Nitori",
+        "adjective":["Kappa"],
+        "startBias":["Coast","Lakes"],
+        "preferredVictoryType":"Scientific",
+        "personality":"Kawasiro Nitori",
+
+        "startIntroPart1":"The rustle of water wheels and the scent of machine oil... I am Kawashima Nitori, a Kappa from the Youkai Mountain. While others seek power through magic or brute force, we Kappa find truth in the precision of gears and the flow of hydropower. Our workshops have always been open to those who appreciate fine craftsmanship.",
+        "startIntroPart2":"But now, the world beyond the mountain beckons. New materials, new technologies await discovery. Will you help me expand our technical prowess? Will we build not just gadgets, but a civilization where engineering and nature exist in perfect harmony?",
+
+        "declaringWar":"Your existence poses more than just a threat to me. With my massive production base at my disposal, eliminating you is nothing more than a minor inconvenience.",
+        "attacked":"Declaration of War Alert! All units immediately enter combat readiness!!",
+        "defeated":"Perfect timing! We just destroyed all the mechanical blueprints—you won't learn a thing from us!",
+        "introduction":"Greetings, stranger. I am Kawashima Nitori,the leader of Kappa. Should you be willing to collaborate with us, we shall henceforth be allies.",
+
+        "neutralHello":"Konichiwa~",
+        "hateHello":"Oh,it's You!",
+
+        "tradeRequest":"We urgently need certain resources to support future development. Therefore, would you be in favor of this initiative?",
+
+        "outerColor":[33,147,163],
+        "innerColor":[217,217,217],
+        "uniqueName":"Heavy Industry of Kappa",
+        "uniques":[
+            "[+2 Production] [in all cities] <before discovering [Industrialization]>",
+            "[+3 Production] [in all cities] <after discovering [Industrialization]>",
+            "[{All} {non-air} {Military}] units gain the [Amphibious] promotion",
+            "[1] Movement point cost to embark",
+            "[1] Movement point cost to disembark"
+        ],
+        "cities":[
+            "Kawashima Company Headquarters",
+            "Genbu Ravine",
+            "Chigyouhori",
+            "Keikoku",
+            "Kasen"
+        ]
+    }
+]
