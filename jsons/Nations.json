@@ -3,7 +3,7 @@
         "name":"Kawashima Technology Industrial Co., Ltd.",
         "leaderName":"Kawashima Nitori",
         "adjective":["Kappa"],
-        "startBias":["Coast","Lakes"],
+        "startBias":["Lakes","Coast","Lakes"],
         "preferredVictoryType":"Scientific",
         "personality":"Kawasiro Nitori",
 
@@ -24,11 +24,16 @@
         "innerColor":[217,217,217],
         "uniqueName":"Heavy Industry of Kappa",
         "uniques":[
-            "[+2 Production] [in all cities] <before discovering [Industrialization]>",
-            "[+3 Production] [in all cities] <after discovering [Industrialization]>",
+            "[+3 Production] [in all cities] <before discovering [Industrialization]>",
+            "[+5 Production] [in all cities] <after discovering [Industrialization]>",
             "[{All} {non-air} {Military}] units gain the [Amphibious] promotion",
             "[1] Movement point cost to embark",
-            "[1] Movement point cost to disembark"
+            "[1] Movement point cost to disembark",
+            "Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
+            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
+            "[+15]% Strength <within [2] tiles of a [River]>",
+            "[+15]% Strength <within [2] tiles of a [Coast]>",
+            "[+15]% Strength <within [2] tiles of a [Lakes]>"
         ],
         "cities":[
             "Kawashima Company Headquarters",
